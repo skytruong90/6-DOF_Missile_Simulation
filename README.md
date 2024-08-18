@@ -30,3 +30,20 @@ C++ Compiler: Ensure you have a C++11 or later compliant compiler (e.g., GCC, Cl
 IDE: Optional but recommended IDEs include Visual Studio, CLion, or VS Code.
 ### Libraries:
 Eigen (optional) for linear algebra operations.
+
+## Installation
+1. Clone the Repository:
+```bash
+git clone https://github.com/skytruong90/6-DOF_Missile_Simulation.git
+```
+2. Navigate to the Project Directory:
+```bash
+cd 6DOF-Missile-Simulation
+```
+3. Compile the Code:
+```bash
+g++ src/*.cpp -o missile_simulation
+```
+
+## Usage
+1. Run the Simulation:
