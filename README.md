@@ -82,6 +82,6 @@ The main simulation loop initializes the missile and repeatedly updates its stat
 
 ## Learning Outcomes
 
-1. Gain practical experience with C++ programming and object-oriented design.
-2. Develop a foundational understanding of 6-DOF simulations and missile dynamics.
-3. Learn to integrate different system components into a cohesive simulation.
+1. I gained practical experience with C++ programming and object-oriented design.
+2. I developed a foundational understanding of 6-DOF simulations and missile dynamics.
+3. I learned how to integrate different system components into a cohesive simulation.
