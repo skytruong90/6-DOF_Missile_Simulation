@@ -47,3 +47,18 @@ g++ src/*.cpp -o missile_simulation
 
 ## Usage
 1. Run the Simulation:
+```bash
+./missile_simulation
+```
+2. Expected Output:
+The program will simulate the missile's movement over time and print the missile's position at each time step.
+
+## Code Explanation
+
+### Vector3D Class
+This class represents a 3D vector and includes basic operations such as addition, subtraction, dot product, cross product, and normalization.
+
+### Key Methods:
+Vector3D operator+(const Vector3D& other) const;
+Vector3D cross(const Vector3D& other) const;
+double magnitude() const;
