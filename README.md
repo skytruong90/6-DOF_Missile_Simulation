@@ -59,6 +59,6 @@ The program will simulate the missile's movement over time and print the missile
 This class represents a 3D vector and includes basic operations such as addition, subtraction, dot product, cross product, and normalization.
 
 ### Key Methods:
-Vector3D operator+(const Vector3D& other) const;
-Vector3D cross(const Vector3D& other) const;
-double magnitude() const;
+1. Vector3D operator+(const Vector3D& other) const;
+2. Vector3D cross(const Vector3D& other) const;
+3. double magnitude() const;
