@@ -23,4 +23,10 @@ This project is a basic 6-DOF (Six Degrees of Freedom) missile simulation writte
 Aerodynamic Forces: Incorporates basic aerodynamic forces like thrust, drag, and gravity.
 Modular Code: Organized into classes for easy extension and modification.
 
+## Getting Started
 
+### Prerequisites
+C++ Compiler: Ensure you have a C++11 or later compliant compiler (e.g., GCC, Clang, MSVC).
+IDE: Optional but recommended IDEs include Visual Studio, CLion, or VS Code.
+### Libraries:
+Eigen (optional) for linear algebra operations.
