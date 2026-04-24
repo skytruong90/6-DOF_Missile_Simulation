@@ -14,16 +14,18 @@ A C++ implementation of a Six Degrees of Freedom (6-DOF) rigid-body missile simu
 ## Project Structure
 
 ```bash
-6DOF-Missile-Simulation/
+6-DOF_Missile_Simulation/
 ├── src/
 │   ├── main.cpp
-│   ├── Missile.hpp
 │   ├── Missile.cpp
-│   ├── Vector3D.hpp
-│   ├── Vector3D.cpp
-│   ├── Simulation.hpp
+│   ├── Missile.hpp
 │   ├── Simulation.cpp
-├── README.md
+│   ├── Simulation.hpp
+│   ├── Vector3D.cpp
+│   └── Vector3D.hpp
+├── CMakeLists.txt
+├── .gitignore
+└── README.md
 ```
 
 ---
