@@ -1,0 +1,21 @@
+# Build output
+build/
+missile_simulation
+*.exe
+*.o
+*.out
+
+# Simulation output
+trajectory.csv
+
+# IDE files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
